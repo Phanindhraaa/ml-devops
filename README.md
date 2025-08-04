@@ -1,7 +1,3 @@
-Here’s a professional README.md template for your ml-devops repository. It covers project overview, features, setup, usage, and more, tailored for a Python and Docker-based ML DevOps project.
-
----
-
 # ml-devops
 
 A robust and scalable machine learning DevOps pipeline built with Python and Docker. This project demonstrates best practices for developing, training, deploying, and managing machine learning models in a production-ready environment.
